@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twilio/sdk": "^5.15",
+        "giggsey/libphonenumber-for-php": "^8.8"
+    }
+}
