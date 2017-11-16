@@ -34,6 +34,7 @@ function sanitizestring($var)
     else
     {
     	echo " RECORD ADDED SUCCESSFULLY !! . You will get SMS soon";
+        echo "<script>confirm(\"you will be redirected now \"); document.location.href = \"index.html\";</script>";
     }
  }
  else
