@@ -6,7 +6,7 @@ use composer install to install all the required dependencies .
 
 ## DB setup
 
-just run setup.php to setup your database .
+just run setup.php to setup your database.
 
 ## RUN
 
