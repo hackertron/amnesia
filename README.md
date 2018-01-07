@@ -1,5 +1,7 @@
 # amnesia
 
+![home](https://raw.githubusercontent.com/hackertron/amnesia/master/main.PNG)
+
 ## Install instructions 
 
 use composer install to install all the required dependencies .
